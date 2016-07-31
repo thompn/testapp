@@ -1,0 +1,22 @@
+[2016-07-31 00:43:42 +0000] [6503] [INFO] Starting gunicorn 19.6.0
+[2016-07-31 00:43:42 +0000] [6503] [INFO] Listening at: http://0.0.0.0:5000 (6503)
+[2016-07-31 00:43:42 +0000] [6503] [INFO] Using worker: sync
+[2016-07-31 00:43:42 +0000] [6506] [INFO] Booting worker with pid: 6506
+[2016-07-31 00:45:12 +0000] [6503] [INFO] Handling signal: term
+[2016-07-31 00:45:12 +0000] [6506] [INFO] Worker exiting (pid: 6506)
+[2016-07-31 00:45:12 +0000] [6503] [INFO] Shutting down: Master
+[2016-07-31 00:45:18 +0000] [6628] [INFO] Starting gunicorn 19.6.0
+[2016-07-31 00:45:18 +0000] [6628] [INFO] Listening at: http://0.0.0.0:5000 (6628)
+[2016-07-31 00:45:18 +0000] [6628] [INFO] Using worker: sync
+[2016-07-31 00:45:18 +0000] [6631] [INFO] Booting worker with pid: 6631
+[2016-07-31 00:45:18 +0000] [6633] [INFO] Booting worker with pid: 6633
+[2016-07-31 00:45:18 +0000] [6635] [INFO] Booting worker with pid: 6635
+[2016-07-31 00:45:18 +0000] [6637] [INFO] Booting worker with pid: 6637
+[2016-07-31 00:45:18 +0000] [6639] [INFO] Booting worker with pid: 6639
+[2016-07-31 00:46:05 +0000] [6628] [INFO] Handling signal: term
+[2016-07-31 00:46:05 +0000] [6633] [INFO] Worker exiting (pid: 6633)
+[2016-07-31 00:46:05 +0000] [6639] [INFO] Worker exiting (pid: 6639)
+[2016-07-31 00:46:05 +0000] [6635] [INFO] Worker exiting (pid: 6635)
+[2016-07-31 00:46:05 +0000] [6637] [INFO] Worker exiting (pid: 6637)
+[2016-07-31 00:46:05 +0000] [6631] [INFO] Worker exiting (pid: 6631)
+[2016-07-31 00:46:06 +0000] [6628] [INFO] Shutting down: Master
